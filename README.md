@@ -9,4 +9,4 @@ npm run dev
 ./vendor/bin/sail run
 ```
 
-then run migrations inside the cointainer
+then run migrations inside the container
